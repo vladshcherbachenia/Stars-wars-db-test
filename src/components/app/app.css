@@ -1,0 +1,8 @@
+body {
+    background: #000000 url("http://www.script-tutorials.com/demos/360/images/stars.png") no-repeat top center;
+}
+
+.base {
+    z-index: 10;
+    position: relative;
+}

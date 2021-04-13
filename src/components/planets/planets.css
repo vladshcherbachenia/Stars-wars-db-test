@@ -1,0 +1,19 @@
+.planet-detail {
+    font-size: 30px;
+    color: #fff;
+}
+
+.planet-box {
+    border: 2px solid black;
+    margin-top: 30px;
+}
+
+.error {
+    color: #fff;
+    font-size: 30px;
+    margin-top: 30px;
+}
+
+.planet-image{
+    height: 70px;
+}
